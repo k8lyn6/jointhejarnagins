@@ -1,0 +1,48 @@
+h1 {
+    font-family: 'Parisienne', sans-serif;
+    font-size: 75px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.site-header {
+    text-align: center;
+}
+
+.menu-bar ul {
+    list-style-type: none;
+    margin: auto;
+}
+
+.menu-bar li {
+    display: block;
+    width: 120px;
+    float: left;
+    margin-left: 2px;
+}
+
+.menu-bar a {
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+
+.menu-bar a:visited {
+    color: gray;
+}
+
+#index-img {
+    display: block;
+    margin-right: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 75%;
+}
