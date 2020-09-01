@@ -1,8 +1,25 @@
 ---
 layout: default
 ---
-<br/>
-<img src="/img/headstouch.JPG" alt='Kaitlyn and Rachel slow dancing in background. In foreground, a sign that reads "a whole ton" rests in a planter. Cinderella Castle is in the background.' class="img-rounded img-responsive" id="index-img">
-<div class="center" id="date-time">
-    <p>January 1, 2021      <span>&#8226;</span>     Lake Travis, TX</p>
+# Rachel Lee Jarnagin<br>& Kaitlyn Renee Sisk
+
+<div class="index-div">
+    <p class="day-title">The First Day</p>
+    <p class="day-desc">March 13, 2018</p>
+</div>
+<!--<img src="/img/embellishment.svg" class="embellishment">-->
+<div class="index-div">
+    <p class="day-title">Happy Sunday</p>
+    <p class="day-desc">April 8, 2018</p>
+</div>
+<!--<img src="/img/embellishment.svg" class="embellishment">-->
+<div class="index-div">
+    <p class="day-title">The "Yes" Day</p>
+    <p class="day-desc">February 22, 2020</p>
+</div>
+<!--<img src="/img/embellishment.svg" class="embellishment">-->
+<div class="index-div">
+    <p class="day-title">The Best Day</p>
+    <p class="day-desc">January 1, 2021<p>
+    <p class="day-desc">Lake Travis, TX</p>
 </div>
