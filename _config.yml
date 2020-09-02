@@ -10,7 +10,6 @@ twitter_username:
 github_username:  k8lyn6
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
