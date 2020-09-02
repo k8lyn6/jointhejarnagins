@@ -22,7 +22,7 @@ p {
     text-align: center;
 }
 
-.menu-bar {
+/*.menu-bar {
     margin-top: 5px;
     font-family: 'Raleway', sans-serif;
     text-align: center;
@@ -34,9 +34,9 @@ p {
 .menu-bar ul {
     display: inline-block;
     float: none;
-}
+}*/
 
-.navbar-default .navbar-nav>li>a {
+.menu-bar a {
     color: #fdefdd;
     text-transform: uppercase;
 }
@@ -45,11 +45,16 @@ p {
     max-width: 750px;
 }
 
+.page-content {
+    margin-bottom: 50px;
+}
+
 .page-content h1{
     font-family: 'Dancing Script', cursive;
     font-size: 50px;
     text-align: center;
     color: #fdefdd;
+    margin-bottom: 40px;
 }
 .page-content p{
     font-size: 20px;
@@ -76,23 +81,28 @@ p {
 
 .index-div {
     display: block;
-    margin-top: 70px;
 }
 
 .index-div p {
     text-align: center;
 }
 
-/*.day-desc {
-    text-transform: uppercase;
-}*/
-
 .day-title {
     font-family: 'Dancing Script', cursive;
 }
 
-hr {
+.footer {
+    margin-bottom: 0px;
+}
+
+.footer p {
+    font-size: 20px;
+    margin-left: 10px;
     color: #fdefdd;
+}
+
+hr {
+    border-top: 1px solid #fdefdd;
 }
 
 .embellishment {
@@ -109,13 +119,33 @@ hr {
         background-color: #0D2C54;
     }
 
-    .menu-bar {
-        margin-top: 5px;
-        font-family: 'Raleway', sans-serif;
+    .bg-primary{
+        background-color:#0D2C54!important;
+    }
+
+    .navbar-toggler {
+        border: 1px solid #fdefdd;
+
+    }
+
+    .navbar-collapse {
+        background-color: #fdefdd;
+    }
+
+    .menu-bar a {
+        color: #0D2C54;
         text-align: center;
-        font-size: 20px;
-        background: none;
-        border: none;
+        font-family: 'Raleway', sans-serif;
+    }
+
+    .page-content h1 {
+        font-size: 25px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .page-content p {
+        font-size: 18px;
     }
 
 }
@@ -136,11 +166,36 @@ hr {
 
 @media screen and (min-width: 468px) {
     .site-header h1{font-size: 50px;}
+
+    .page-content h1 {
+        font-size: 30px;
+    }
+
+    .page-content p {
+        font-size: 20px;
+    }
+}
+
+@media screen and (min-width: 577px){
+    .menu-bar {
+        margin-top: 5px;
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .menu-bar a {
+        color: #fdefdd;
+        background-color: #0D2C54;
+        border: none;
+    }
+
+    .navbar-collapse {
+        background-color: #0D2C54;
+    }
 }
 
 @media screen and (min-width: 768px) {
     .site-header h1 {
-        font-size: 60px;
         padding-top: 10px;
     }
 
@@ -148,9 +203,21 @@ hr {
         margin-top: 5px;
         font-family: 'Raleway', sans-serif;
         text-align: center;
-        font-size: 20px;
+        font-size: 18px;
         background: none;
         border: none;
+    }
+
+    .menu-bar a {
+        font-size: 20px;
+    }
+
+    .page-content h1 {
+        font-size: 35px;
+    }
+
+    .page-content p {
+        font-size: 25px;
     }
 }
 
@@ -161,6 +228,14 @@ hr {
     }
     .site-title {
         height: 200px;
+    }
+
+    .page-content h1 {
+        font-size: 50px;
+    }
+
+    .page-content p {
+        font-size: 25px;
     }
 
 }
