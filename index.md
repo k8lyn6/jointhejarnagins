@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <h1>Rachel Lee Jarnagin<br>& Kaitlyn Renee Sisk</h1>
 <div class="index-div">
     <p class="day-title">The First Day</p>
