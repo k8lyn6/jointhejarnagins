@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Guest Book
+permalink: /guestbook/
 ---
 
 # Our (Digital) Guestbook
