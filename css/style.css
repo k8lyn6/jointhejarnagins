@@ -234,11 +234,15 @@ a:hover {
     }
 
     .page-content h1 {
-        font-size: 35px;
+        font-size: 40px;
     }
 
     .page-content p {
-        font-size: 25px;
+        font-size: 20px;
+    }
+
+    .page-content h2 {
+        font-size: 35px;
     }
 }
 
@@ -256,7 +260,7 @@ a:hover {
     }
 
     .page-content p {
-        font-size: 25px;
+        font-size: 20px;
     }
 
     .menu-bar a {
