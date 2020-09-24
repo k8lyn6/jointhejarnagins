@@ -4,7 +4,6 @@ title: Join Us
 permalink: /joinus/
 ---
 <h1>Join Us</h1>
-<br/>
 <p>Thank you for joining us for our virtual wedding! The ceremony will be live streamed on Youtube starting just before 11 AM and will be available for replay after the ceremony.</p>
 <p>Please sign our digital guestbook! Go to <a href="https://wed.tv/en/user" target="_blank">wed.tv</a> on your phone and enter code "jointhejarnagins" to access the guestbook. We'll be streaming the guestbook on our TV after the ceremony and would love to see your smiling faces and well wishes!</p>
 <p>Early to the ceremony? <a href="https://www.youtube.com/watch?v=2xuNCDbC3VE" target="_blank">Watch our favorite Vine compilations</a> while you wait!</p>
