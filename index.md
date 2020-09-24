@@ -17,7 +17,7 @@ title: Home
   </div>
   <div class="timeline-container timeline-right">
     <div class="timeline-content">
-      <h2>Happy Sunday</h2>
+      <h2>Happy Sunday - Started Dating</h2>
       <p>April 8, 2018</p>
     </div>
   </div>
