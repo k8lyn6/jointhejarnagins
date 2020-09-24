@@ -5,7 +5,6 @@ title: Our Story
 
 # Our Story
 
-<br/>
 "Did you survive the killing curse? Because you're drop dead gorgeous."
 
 <br/>
