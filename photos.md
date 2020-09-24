@@ -27,6 +27,7 @@ permalink: /photos/
             <img src="/img/IMG_9856.JPG" alt="Kaitlyn holding Freddy against her face.">
         </div>
         <div class="photo-column">
+            <img src="/img/IMG_0120.JPG" alt="Kaitlyn cuddling Presh.">
             <img src="/img/foggykiss.JPG" alt="Rachel holding Kaitlyn and kissing her on the cheek. There is a pond and fountain in the background.">
             <img src="/img/orchard.JPG" alt="Kaitlyn and Rachel pose cheek to cheek for a selfie with an apple orchard in the background.">
             <img src="/img/airkiss.JPG" alt="Kaitlyn and Rachel sit at the base of a tree making kissing faces at each other.">
@@ -34,7 +35,6 @@ permalink: /photos/
             <img src="/img/lantern.JPG" alt="Kaitlyn and Rachel in background looking lovingly at each other. In foreground, they are holding a Tangled lantern with two ring boxes on top.">
             <img src="/img/Logan_Kaitlyn.JPG" alt="Kaitlyn taking a selfie with Logan.">
             <img src="/img/california.jpg" alt="Kaitlyn holds Rachel from behind. They are both laughing.">
-            <img src="/img/ringscastle.JPG" alt="Two hands with engagement rings in front of blue sky and Cinderella Castle.">
         </div>
         <div class="photo-column">
             <img src="/img/dckiss.JPG" alt="Kaitlyn kissing Rachel on the cheek near the Washington Monument">
