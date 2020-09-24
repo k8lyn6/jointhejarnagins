@@ -4,8 +4,12 @@ title: Home
 ---
 <h1>Rachel Lee Jarnagin<br>& Kaitlyn Renee Sisk</h1>
 <div class="timeline-date">
-    <p>We're getting married!</p>
-    <p>Friday, January 1, 2021 &#183; Austin, TX</p>
+  <p>We're getting married!</p>
+  <p>Friday, January 1, 2021 &#183; Austin, TX</p>
+</div>
+<div class="countdown">
+  <p class="cursive-red">Official Countdown Clock</p>
+  <p id="countdown-clock"></p>
 </div>
 <br>
 <div class="timeline">

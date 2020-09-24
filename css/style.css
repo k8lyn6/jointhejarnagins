@@ -118,6 +118,24 @@ a:hover {
     color: #B84A62;
 }
 
+.cursive-red {
+    font-family: 'Dancing Script', cursive;
+}
+
+.countdown {
+    background-color: #B84A62;
+    margin: auto;
+    width: 50%;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+
+.countdown p {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
 @media screen and (min-width: 280px) {
     .site-header h1 {
         font-size: 40px;
